@@ -1,3 +1,0 @@
-cd ..
-colorchord
-cd windows
